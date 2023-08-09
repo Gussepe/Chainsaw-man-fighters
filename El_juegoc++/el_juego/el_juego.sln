@@ -11,6 +11,7 @@ using namespace sf;
 void f() {
 	std::this_thread::sleep_for(std::chrono::seconds(1));
 }
+//poner las musicas en formato wav para correr ya que no corre sin eso :3 un saludo 
 int main()
 {
 
